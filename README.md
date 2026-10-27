@@ -1,8 +1,4 @@
-# Major Projects Collection Archive
 
-This ZIP file contains three completely separate, independent, and full-featured React applications built with standard JavaScript / JSX and Tailwind CSS.
-
-## 📂 Included Folders:
 
 1. **`1-ecommerce-app/`**
    - Product listing & search
